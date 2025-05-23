@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adriano Jet - Links Oficiais</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      color: #aaa;
+      margin-bottom: 30px;
+    }
+    a {
+      display: block;
+      background-color: #00bfff;
+      color: white;
+      padding: 15px;
+      margin: 10px 0;
+      border-radius: 10px;
+      text-decoration: none;
+      font-size: 1.1em;
+      transition: background-color 0.3s;
+    }
+    a:hover {
+      background-color: #009acd;
+    }
+    .china {
+      background-color: #e91e63;
+    }
+    .china:hover {
+      background-color: #c2185b;
+    }
+    .lotogreen {
+      background-color: #4caf50;
+    }
+    .lotogreen:hover {
+      background-color: #388e3c;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Adriano Jet</h1>
+    <p>Escolha uma das opções abaixo para entrar no grupo ou nas plataformas!</p>
+
+    <a href="https://t.me/adrianoJet" target="_blank">🔗 Grupo no Telegram</a>
+    <a class="china" href="https://8385b.xyz/?pid=79647107" target="_blank">🎰 Casa de Aposta - China 8385</a>
+    <a class="lotogreen" href="https://go.aff.lotogreen.com/o5lyupvj" target="_blank">💸 Casa de Aposta - LotoGreen</a>
+  </div>
+</body>
+</html>
